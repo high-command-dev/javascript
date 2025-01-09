@@ -15,7 +15,7 @@ console.log(jsUser["full name"]);
 console.log(typeof jsUser.mySym);
 
 
-
+asd = asd;
 
 
 
