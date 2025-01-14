@@ -44,3 +44,4 @@ function calculateCartPrice(...num1){
 //... -> This is the rest operator
 
 console.log(calculateCartPrice(200, 400, 500));
+asc = asc;
